@@ -1,0 +1,4 @@
+# carrinho-db
+Código do Model e Controller para carrinho pelo banco de dados
+
+### ATENÇÃO, CODIGO NÃO FUNCIONAL, SOMENTE PARA ADICIONAR EM SEU CODIGO PHP ORIENTADO A OBJETOS E ADAPTAR AS VIEWS, CONTROLLERS, ENFIM
